@@ -58,7 +58,7 @@ An intensive in-person programme covering the full stack - from frontend fundame
 ## What Drives Me
 
 - Building things that feel intuitive and human
-- Learning by doing — and then doing it better
+- Learning by doing - and then doing it better
 - Combining structure with creativity
 - Systems thinking: understanding the *why* behind the *how*
 
