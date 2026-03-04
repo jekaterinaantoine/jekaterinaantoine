@@ -21,7 +21,8 @@ I'm now channeling all of that into code.
 ### 🛍️ Ease — Mood-Based Store
 A web app that personalises the shopping experience based on how you're feeling. Because what you need on a hard day is different from what you want on a great one.
 
-**Tech:** HTML/CSS · JavaScript · React.js · Express.js · MongoDB
+**Tech:** HTML/CSS · JavaScript · React.js · Node.js · Express.js · MongoDB
+
 🔗 [Live Demo](https://mood-based-store-project.vercel.app/)
 
 ---
@@ -29,7 +30,8 @@ A web app that personalises the shopping experience based on how you're feeling.
 ### ⚡ Social Energy Simulator
 A mobile app that helps you track your daily energy levels, log activities, and understand what genuinely boosts or drains you throughout the day.
 
-**Tech:** React Native · Expo  
+**Tech:** React Native · Expo
+
 🔗 *(Coming soon)*
 
 ---
@@ -43,6 +45,7 @@ A mobile app that helps you track your daily energy levels, log activities, and 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
