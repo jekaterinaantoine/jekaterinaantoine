@@ -68,8 +68,8 @@ An intensive in-person programme covering the full stack - from frontend fundame
 
 I'm actively looking for junior developer opportunities where I can keep growing, contribute meaningfully, and be part of a team that cares about craft.
 
-- LinkedIn: https://www.linkedin.com/in/jekaterina-antoine-01634b106/
-- Email: jekaterinaantoine@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jekaterina-antoine-01634b106/)
+- [Email](mailto:jekaterinaantoine@gmail.com)
   
 ---
 
