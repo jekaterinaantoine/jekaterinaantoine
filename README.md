@@ -1,7 +1,9 @@
 # Hello 👋 I'm Jekaterina
 
 🌍 Based in Barcelona 
+
 🌿 From guest experience to digital experience
+
 💻 Learning, building, and growing in web development
 
 ---
