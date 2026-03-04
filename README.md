@@ -36,7 +36,7 @@ HTML | CSS | JavaScript | TypeScript | React.js | Express.js | React Native | Mo
 
 ---
 
-## 📫 Connect with me
+### 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/jekaterina-antoine-01634b106/
 - Email: jekaterinaantoine@gmail.com
