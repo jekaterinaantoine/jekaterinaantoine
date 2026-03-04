@@ -26,8 +26,11 @@ I enjoy:
 ### What I'm Working On
 
 🔹 Building consistent technical skills
+
 🔹 Improving efficiency with development tools
+
 🔹 Creating structured learning routines
+
 🔹 Turning knowledge into practical output
 
 ---
