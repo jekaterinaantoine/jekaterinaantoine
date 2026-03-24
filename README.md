@@ -32,7 +32,8 @@ A mobile app that helps you track your daily energy levels, log activities, and 
 
 **Tech:** React Native · Expo
 
-🔗 *(Coming soon)*
+🔗 [App Store](https://apps.apple.com/es/app/boost-burn/id6760339479?l=en-GB)
+🔗 [Google Play](https://play.google.com/store/apps/details?id=com.barcelonacodeschool.boostburn)
 
 ---
 
