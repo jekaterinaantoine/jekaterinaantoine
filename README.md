@@ -4,6 +4,8 @@ I'm a career changer from luxury hospitality who fell in love with building thin
 
 Based in Barcelona 🌍 | Open to junior developer roles 💼
 
+🔗 My Portfolio: jekaterinaa.surge.sh
+
 ---
 
 ## About Me
