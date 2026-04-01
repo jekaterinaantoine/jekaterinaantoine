@@ -27,7 +27,7 @@ A web app that personalises the shopping experience based on how you're feeling.
 
 ---
 
-### ⚡ Social Energy Simulator
+### ⚡ Boost&Burn - Social Energy Simulator
 A mobile app that helps you track your daily energy levels, log activities, and understand what genuinely boosts or drains you throughout the day.
 
 **Tech:** React Native · Expo
