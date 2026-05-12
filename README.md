@@ -20,6 +20,18 @@ I'm now channeling all of that into code.
 
 ## What I'm Building
 
+## ⚽️ CitySports — Sports Community Mobile App
+A collaborative mobile app developed during a team internship project. 
+
+Work in an Agile team environment using Git/GitHub workflows, feature branches, pull requests, and collaborative development practices.
+
+**Tech:** React Native · Expo · MongoDB
+
+🔗 In Progress
+
+---
+
+
 ### 🛍️ Ease — Mood-Based Store
 A web app that personalises the shopping experience based on how you're feeling. Because what you need on a hard day is different from what you want on a great one.
 
