@@ -20,7 +20,7 @@ I'm now channeling all of that into code.
 
 ## What I'm Building
 
-## ⚽️ CitySports — Sports Community Mobile App
+### ⚽️ CitySports — Sports Community Mobile App
 A collaborative mobile app developed during a team internship project. 
 
 Work in an Agile team environment using Git/GitHub workflows, feature branches, pull requests, and collaborative development practices.
