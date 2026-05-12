@@ -21,9 +21,9 @@ I'm now channeling all of that into code.
 ## What I'm Building
 
 ### ⚽️ CitySports — Sports Community Mobile App
-A collaborative mobile app developed during a team internship project. 
+A collaborative mobile app currently being developed as part of a team internship project.
 
-Work in an Agile team environment using Git/GitHub workflows, feature branches, pull requests, and collaborative development practices.
+Working in an Agile team environment using Git/GitHub workflows, feature branches, pull requests, and collaborative development practices.
 
 **Tech:** React Native · Expo · MongoDB
 
